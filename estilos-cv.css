@@ -1,0 +1,46 @@
+#foto{
+    align-content: center;
+}
+
+#principal{
+    border: solid 3px #C4C4C4;
+    padding: 5px;
+    margin: 10px;
+    width: 97%;
+    background-color: rgb(233, 227, 219);
+}
+
+#marco1{
+    border: solid 2px #6a6ba0;
+    padding: 5px;
+    background-color: rgb(223, 210, 235);
+}
+
+#marco2{
+    border: solid 2px #9292a3 ;
+    padding: 5px;
+    background-color: rgb(212, 206, 218);
+}
+
+h1{
+    text-align: center;
+}
+
+#videos{
+    background-color: rgb(223, 222, 255) ;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-weight: 200;
+    width: 300px;
+    text-align: center;
+}
+
+legend{
+    border: solid 1px  rgb(48, 42, 235);
+    padding: 3px;
+    font-weight: bold;
+    background: #cccccc;
+    border-radius: 15px;
+}
