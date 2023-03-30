@@ -1,0 +1,103 @@
+#foto{
+    align-content: center;
+}
+
+#principal{
+    border: solid 3px #C4C4C4;
+    padding: 5px;
+    margin: 10px;
+    width: 97%;
+    background-color: rgb(233, 227, 219);
+}
+
+#marco1{
+    border: solid 2px #6a6ba0;
+    padding: 5px;
+    background-color: rgb(223, 210, 235);
+}
+
+#marco2{
+    border: solid 2px #9292a3 ;
+    padding: 5px;
+    background-color: rgb(212, 206, 218);
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+#videos{
+    background-color: rgb(223, 222, 255) ;
+}
+
+p{
+    color: rgb(0, 0, 0);
+    font-weight: 200;
+    width: 600px;
+    text-align: left;
+}
+
+legend{
+    border: solid 1px  rgb(48, 42, 235);
+    padding: 3px;
+    font-weight: bold;
+    background: #cccccc;
+    border-radius: 15px;
+}
+
+#curso1{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+#curso2{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+#curso3{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+#curso4{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+
+#refer1{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+#refer2{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+#refer3{
+    color: rgb(60, 35, 107);
+    width: 1330px;
+    text-align: right; 
+}
+
+#boton1 {
+    background-color: blueviolet;
+    color: rgb(235, 209, 209);
+    font-weight: 500;
+    width: 1330px;
+    text-align: right; 
+}
+
+#boton2 {
+    background-color: blueviolet;
+    color: rgb(235, 209, 209);
+    font-weight: 500;
+    width: 1330px;
+    text-align: right; 
+}
